@@ -8,6 +8,7 @@
 //
 
 #import "RMSyslogFormatter.h"
+@import UIKit;
 
 static NSString * const RMAppUUIDKey = @"RMAppUUIDKey";
 
